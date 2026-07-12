@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/rishuraj-7/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+## String
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/rishuraj-7/LeetCode/tree/master/0032-longest-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/rishuraj-7/LeetCode/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/rishuraj-7/LeetCode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
