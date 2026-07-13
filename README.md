@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/rishuraj-7/LeetCode/tree/master/0032-longest-valid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/rishuraj-7/LeetCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
