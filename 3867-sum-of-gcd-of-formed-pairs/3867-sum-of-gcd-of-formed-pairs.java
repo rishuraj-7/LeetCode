@@ -1,22 +1,17 @@
 class Solution {
     public long gcdSum(int[] nums) {
         int n=nums.length;
-        int max[]=new int[n];
         int mx=0;
+        long[] pgcd=new long[n];
         for(int i=0;i<n;i++){
             if(nums[i]>mx){
                 mx=nums[i];
-                max[i]=mx;
-            }else{
-                max[i]=mx;
+                
             }
-        }
-        long[] pgcd=new long[n];
-        for(int i=0;i<n;i++){
-            pgcd[i]=gcd(nums[i],max[i]);
+            pgcd[i]=gcd(nums[i],mx);
+            
         }
         Arrays.sort(pgcd);
-        System.out.println(Arrays.toString(max));
         System.out.println(Arrays.toString(pgcd));
         long sum=0;
         int l=0;
