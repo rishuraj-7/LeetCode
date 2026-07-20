@@ -89,4 +89,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0607-sales-person](https://github.com/rishuraj-7/LeetCode/tree/master/0607-sales-person) |
+| [0627-swap-sex-of-employees](https://github.com/rishuraj-7/LeetCode/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
