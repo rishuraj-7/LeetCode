@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishuraj-7/LeetCode/tree/master/0001-two-sum) |
+| [0045-jump-game-ii](https://github.com/rishuraj-7/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rishuraj-7/LeetCode/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/rishuraj-7/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/rishuraj-7/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/rishuraj-7/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/rishuraj-7/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rishuraj-7/LeetCode/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0607-sales-person](https://github.com/rishuraj-7/LeetCode/tree/master/0607-sales-person) |
 | [0627-swap-sex-of-employees](https://github.com/rishuraj-7/LeetCode/tree/master/0627-swap-sex-of-employees) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/rishuraj-7/LeetCode/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
