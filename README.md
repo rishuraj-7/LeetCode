@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rishuraj-7/LeetCode/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/rishuraj-7/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0463-island-perimeter](https://github.com/rishuraj-7/LeetCode/tree/master/0463-island-perimeter) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rishuraj-7/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0896-monotonic-array](https://github.com/rishuraj-7/LeetCode/tree/master/0896-monotonic-array) |
 | [1331-rank-transform-of-an-array](https://github.com/rishuraj-7/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rishuraj-7/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/rishuraj-7/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/rishuraj-7/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/rishuraj-7/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rishuraj-7/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishuraj-7/LeetCode/tree/master/0002-add-two-numbers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rishuraj-7/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rishuraj-7/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rishuraj-7/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/rishuraj-7/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
