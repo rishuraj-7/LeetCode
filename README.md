@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rishuraj-7/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishuraj-7/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0763-partition-labels](https://github.com/rishuraj-7/LeetCode/tree/master/0763-partition-labels) |
 | [1331-rank-transform-of-an-array](https://github.com/rishuraj-7/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishuraj-7/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0032-longest-valid-parentheses](https://github.com/rishuraj-7/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0763-partition-labels](https://github.com/rishuraj-7/LeetCode/tree/master/0763-partition-labels) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rishuraj-7/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rishuraj-7/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0763-partition-labels](https://github.com/rishuraj-7/LeetCode/tree/master/0763-partition-labels) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rishuraj-7/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/rishuraj-7/LeetCode/tree/master/0045-jump-game-ii) |
+| [0763-partition-labels](https://github.com/rishuraj-7/LeetCode/tree/master/0763-partition-labels) |
 ## Depth-First Search
 |  |
 | ------- |
