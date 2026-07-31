@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishuraj-7/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/rishuraj-7/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0045-jump-game-ii](https://github.com/rishuraj-7/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rishuraj-7/LeetCode/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/rishuraj-7/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishuraj-7/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/rishuraj-7/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/rishuraj-7/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0763-partition-labels](https://github.com/rishuraj-7/LeetCode/tree/master/0763-partition-labels) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rishuraj-7/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rishuraj-7/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rishuraj-7/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rishuraj-7/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
