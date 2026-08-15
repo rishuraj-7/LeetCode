@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/rishuraj-7/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishuraj-7/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rishuraj-7/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/rishuraj-7/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rishuraj-7/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishuraj-7/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rishuraj-7/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rishuraj-7/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/rishuraj-7/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Database
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/rishuraj-7/LeetCode/tree/master/0463-island-perimeter) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/rishuraj-7/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
