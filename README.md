@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/rishuraj-7/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/rishuraj-7/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishuraj-7/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1872-stone-game-viii](https://github.com/rishuraj-7/LeetCode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rishuraj-7/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/rishuraj-7/LeetCode/tree/master/2029-stone-game-ix) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/rishuraj-7/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rishuraj-7/LeetCode/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/rishuraj-7/LeetCode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/rishuraj-7/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/rishuraj-7/LeetCode/tree/master/1872-stone-game-viii) |
 ## Stack
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-robot-bounded-in-circle](https://github.com/rishuraj-7/LeetCode/tree/master/1041-robot-bounded-in-circle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rishuraj-7/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1510-stone-game-iv](https://github.com/rishuraj-7/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/rishuraj-7/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/rishuraj-7/LeetCode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rishuraj-7/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/rishuraj-7/LeetCode/tree/master/2029-stone-game-ix) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rishuraj-7/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [1872-stone-game-viii](https://github.com/rishuraj-7/LeetCode/tree/master/1872-stone-game-viii) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/rishuraj-7/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Database
 |  |
@@ -210,12 +214,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/rishuraj-7/LeetCode/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/rishuraj-7/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/rishuraj-7/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/rishuraj-7/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/rishuraj-7/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/rishuraj-7/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/rishuraj-7/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/rishuraj-7/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -230,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/rishuraj-7/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/rishuraj-7/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/rishuraj-7/LeetCode/tree/master/2029-stone-game-ix) |
 ## Bit Manipulation
 |  |
