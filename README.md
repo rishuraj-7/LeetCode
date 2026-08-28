@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/rishuraj-7/LeetCode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/rishuraj-7/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rishuraj-7/LeetCode/tree/master/0053-maximum-subarray) |
+| [0189-rotate-array](https://github.com/rishuraj-7/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/rishuraj-7/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0463-island-perimeter](https://github.com/rishuraj-7/LeetCode/tree/master/0463-island-perimeter) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishuraj-7/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishuraj-7/LeetCode/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/rishuraj-7/LeetCode/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishuraj-7/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/rishuraj-7/LeetCode/tree/master/0877-stone-game) |
 | [1041-robot-bounded-in-circle](https://github.com/rishuraj-7/LeetCode/tree/master/1041-robot-bounded-in-circle) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/rishuraj-7/LeetCode/tree/master/0086-partition-list) |
+| [0189-rotate-array](https://github.com/rishuraj-7/LeetCode/tree/master/0189-rotate-array) |
 | [0763-partition-labels](https://github.com/rishuraj-7/LeetCode/tree/master/0763-partition-labels) |
 | [0905-sort-array-by-parity](https://github.com/rishuraj-7/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rishuraj-7/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
