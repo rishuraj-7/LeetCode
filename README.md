@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/rishuraj-7/LeetCode/tree/master/0290-word-pattern) |
 | [0520-detect-capital](https://github.com/rishuraj-7/LeetCode/tree/master/0520-detect-capital) |
 | [0763-partition-labels](https://github.com/rishuraj-7/LeetCode/tree/master/0763-partition-labels) |
+| [0940-distinct-subsequences-ii](https://github.com/rishuraj-7/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1041-robot-bounded-in-circle](https://github.com/rishuraj-7/LeetCode/tree/master/1041-robot-bounded-in-circle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rishuraj-7/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rishuraj-7/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rishuraj-7/LeetCode/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/rishuraj-7/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/rishuraj-7/LeetCode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/rishuraj-7/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1510-stone-game-iv](https://github.com/rishuraj-7/LeetCode/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/rishuraj-7/LeetCode/tree/master/1872-stone-game-viii) |
 ## Stack
