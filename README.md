@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/rishuraj-7/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0463-island-perimeter](https://github.com/rishuraj-7/LeetCode/tree/master/0463-island-perimeter) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishuraj-7/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/rishuraj-7/LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/rishuraj-7/LeetCode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/rishuraj-7/LeetCode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/rishuraj-7/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/rishuraj-7/LeetCode/tree/master/0463-island-perimeter) |
+| [0835-image-overlap](https://github.com/rishuraj-7/LeetCode/tree/master/0835-image-overlap) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/rishuraj-7/LeetCode/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Heap (Priority Queue)
 |  |
