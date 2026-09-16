@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/rishuraj-7/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/rishuraj-7/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/rishuraj-7/LeetCode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/rishuraj-7/LeetCode/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/rishuraj-7/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0187-repeated-dna-sequences](https://github.com/rishuraj-7/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/rishuraj-7/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/rishuraj-7/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/rishuraj-7/LeetCode/tree/master/0071-simplify-path) |
 ## Enumeration
 |  |
 | ------- |
