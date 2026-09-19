@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/rishuraj-7/LeetCode/tree/master/0877-stone-game) |
 | [1041-robot-bounded-in-circle](https://github.com/rishuraj-7/LeetCode/tree/master/1041-robot-bounded-in-circle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rishuraj-7/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/rishuraj-7/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/rishuraj-7/LeetCode/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/rishuraj-7/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/rishuraj-7/LeetCode/tree/master/1927-sum-game) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/rishuraj-7/LeetCode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/rishuraj-7/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Design
 |  |
 | ------- |
