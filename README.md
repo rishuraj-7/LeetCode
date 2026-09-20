@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rishuraj-7/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/rishuraj-7/LeetCode/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/rishuraj-7/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/rishuraj-7/LeetCode/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/rishuraj-7/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/rishuraj-7/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/rishuraj-7/LeetCode/tree/master/0290-word-pattern) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/rishuraj-7/LeetCode/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/rishuraj-7/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/rishuraj-7/LeetCode/tree/master/0189-rotate-array) |
 | [0763-partition-labels](https://github.com/rishuraj-7/LeetCode/tree/master/0763-partition-labels) |
 | [0905-sort-array-by-parity](https://github.com/rishuraj-7/LeetCode/tree/master/0905-sort-array-by-parity) |
