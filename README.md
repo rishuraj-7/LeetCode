@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/rishuraj-7/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/rishuraj-7/LeetCode/tree/master/0290-word-pattern) |
 | [0763-partition-labels](https://github.com/rishuraj-7/LeetCode/tree/master/0763-partition-labels) |
+| [1096-brace-expansion-ii](https://github.com/rishuraj-7/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/rishuraj-7/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rishuraj-7/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rishuraj-7/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/rishuraj-7/LeetCode/tree/master/0049-group-anagrams) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishuraj-7/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/rishuraj-7/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [1096-brace-expansion-ii](https://github.com/rishuraj-7/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/rishuraj-7/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishuraj-7/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rishuraj-7/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/rishuraj-7/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1041-robot-bounded-in-circle](https://github.com/rishuraj-7/LeetCode/tree/master/1041-robot-bounded-in-circle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/rishuraj-7/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1096-brace-expansion-ii](https://github.com/rishuraj-7/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rishuraj-7/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1927-sum-game](https://github.com/rishuraj-7/LeetCode/tree/master/1927-sum-game) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/rishuraj-7/LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/rishuraj-7/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/rishuraj-7/LeetCode/tree/master/0071-simplify-path) |
+| [1096-brace-expansion-ii](https://github.com/rishuraj-7/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/rishuraj-7/LeetCode/tree/master/0463-island-perimeter) |
+| [1096-brace-expansion-ii](https://github.com/rishuraj-7/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -329,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/rishuraj-7/LeetCode/tree/master/0707-design-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/rishuraj-7/LeetCode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
