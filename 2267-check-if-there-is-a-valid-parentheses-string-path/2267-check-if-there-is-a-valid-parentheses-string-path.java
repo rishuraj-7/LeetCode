@@ -10,9 +10,7 @@ class Solution {
             return false;
         }
         int maxBal = (m + n) / 2;
-
         visited = new boolean[m][n][maxBal + 1];
-
         return dfs(grid, 0, 0, 0, m, n, maxBal);
     }
     private boolean dfs(char[][] grid, int r, int c,
