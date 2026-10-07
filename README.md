@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/rishuraj-7/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/rishuraj-7/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/rishuraj-7/LeetCode/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/rishuraj-7/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0520-detect-capital](https://github.com/rishuraj-7/LeetCode/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/rishuraj-7/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/rishuraj-7/LeetCode/tree/master/0763-partition-labels) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/rishuraj-7/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/rishuraj-7/LeetCode/tree/master/0463-island-perimeter) |
 | [1096-brace-expansion-ii](https://github.com/rishuraj-7/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Matrix
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rishuraj-7/LeetCode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/rishuraj-7/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/rishuraj-7/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
