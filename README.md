@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/rishuraj-7/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/rishuraj-7/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/rishuraj-7/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rishuraj-7/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/rishuraj-7/LeetCode/tree/master/0463-island-perimeter) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishuraj-7/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/rishuraj-7/LeetCode/tree/master/0835-image-overlap) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/rishuraj-7/LeetCode/tree/master/0049-group-anagrams) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rishuraj-7/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishuraj-7/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/rishuraj-7/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1096-brace-expansion-ii](https://github.com/rishuraj-7/LeetCode/tree/master/1096-brace-expansion-ii) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishuraj-7/LeetCode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/rishuraj-7/LeetCode/tree/master/0189-rotate-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rishuraj-7/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishuraj-7/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/rishuraj-7/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/rishuraj-7/LeetCode/tree/master/0877-stone-game) |
