@@ -8,7 +8,7 @@ class Solution {
         for(int i = 0; i < n;i++){
             pre += arr[i];
 
-            if((pre&1) == 0){ //so we need to remove subarrays(0...i) having sum as odd to make the resulting subarray odd
+            if((pre&1) == 0){
                 ans = (ans + cntOdd) % mod;
                 cntEv++;
             }else{
